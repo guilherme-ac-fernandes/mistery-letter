@@ -7,5 +7,5 @@
 
 #### Demostração
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/trybe-projetos/blob/main/mistery-letter/mistery-letter.gif" alt="Mistery Letter Gif - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/mistery-letter/blob/main/mistery-letter.gif" alt="Mistery Letter Gif - Demostração"/>
 </p>
