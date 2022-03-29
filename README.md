@@ -1,4 +1,4 @@
-## Game - Mistery Letter
+## Projeto Mistery Letter
 
 #### Consiste em um site capaz de criar cartas misteriosas.
 > Esta aplicação foi desenvolvida utilizando JavaScript, HTML5 e CSS3.
