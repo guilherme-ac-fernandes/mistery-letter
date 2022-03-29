@@ -1,16 +1,16 @@
-*{
+* {
   margin: 0;
   padding: 0;
 	margin: 30px 0px 10px 30px;
 }
 
-.newspaper{
+.newspaper {
 	background-color: antiquewhite;
 	font-family: 'Times New Roman', Times, serif;
 	font-weight: bold;
 }
 
-.magazine1{
+.magazine1 {
 	background-color: teal;
 	color: white;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -18,40 +18,40 @@
 	text-transform: uppercase;
 }
 
-.magazine2{
+.magazine2 {
 	background-image: url(images/pink-pattern.png);
 	color: fuchsia;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-weight: 900;
 }
 
-.medium{
+.medium {
 	font-size: 20px;
 	padding: 8px;
 }
 
-.big{
+.big {
 	font-size: 30px;
 	padding: 10px;
 }
 
-.reallybig{
+.reallybig {
 	font-size: 40px;
 	padding: 15px;
 }
 
-.rotateleft{
+.rotateleft {
 	transform: rotate(-5deg);
 }
 
-.rotateright{
+.rotateright {
 	transform: rotate(5deg);
 }
 
-.skewleft{
+.skewleft {
 	transform: skewX(10deg);
 }
 
-.skewright{
+.skewright {
 	transform: skewX(-10deg);
 }
